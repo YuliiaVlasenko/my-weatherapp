@@ -54,13 +54,18 @@ li {
 }
 .list-group-item{
   text-align: center;
+  font-size: 12px;
 
+}
+.card {
+  margin: 15px;
 }
 .card-title{
   text-align: center;
 }
+
 .coded{
             text-align: center;
             font-size: 30px;
             color:#b01ad6;
-        }
+           }
